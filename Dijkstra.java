@@ -2,7 +2,7 @@
      **
      **  Dijkstra algorithm to find shortest path 
      **  Used data structure:
-	 **				1. Limked List
+	 **				1. Linked List
 	 **				2. Priority Queue
      **  Input in the form of array
      **  Output is shortest distance from source vertex
